@@ -68,8 +68,8 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define PWR_BTN_Pin GPIO_PIN_14
 #define PWR_BTN_GPIO_Port GPIOC
-#define TPS_ENA_Pin GPIO_PIN_15
-#define TPS_ENA_GPIO_Port GPIOC
+#define TPS_ENA_Pin GPIO_PIN_11
+#define TPS_ENA_GPIO_Port GPIOA
 #define LED_Pin GPIO_PIN_1
 #define LED_GPIO_Port GPIOD
 #define M1_TEMPERATURE_Pin GPIO_PIN_0
